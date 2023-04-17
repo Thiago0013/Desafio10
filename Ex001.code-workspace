@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "../../Exercicio/Ex001"
+		},
+		{
+			"path": "../../Exercicio/Ex002"
+		},
+		{
+			"path": "../../Exercicio/estudo(pratica)"
+		},
+		{
+			"path": "../../Exercicio/Desafio"
+		},
+		{
+			"path": "../../Exercicio/Defaios2"
+		},
+		{
+			"path": "../../Minha Pasta/meusite1"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "desafio10"
+	}
+}
